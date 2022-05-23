@@ -2,7 +2,7 @@
  * Program Name:	LongOperandException.java
  * Purpose:			A customized subclass of the Exception class that will create an exception object
  *          		if a user enters too much values that exceed the text field limit
- * @author			Robert Ren, 0975676
+ * @author			Robert Ren
  * Date:			Apr. 16, 2021
  */
 
