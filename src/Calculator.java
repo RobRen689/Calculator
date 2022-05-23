@@ -1,7 +1,7 @@
 /**
  * Program Name:	Calculator.java
  * Purpose:			A Calculator class that holds all appropriate calculation methods
- * @author			Robert Ren, 0975676
+ * @author			Robert Ren
  * Date:			Apr. 16, 2021
  */
 
