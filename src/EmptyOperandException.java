@@ -2,7 +2,7 @@
  * Program Name:	EmptyOperandException.java
  * Purpose:			A customized subclass of the Exception class that will create an exception object
  *          		if a user tries to use functions or operators when the text field is empty
- * @author			Robert Ren, 0975676
+ * @author			Robert Ren
  * Date:			Apr. 16, 2021
  */
 
