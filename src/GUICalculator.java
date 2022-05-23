@@ -1,7 +1,7 @@
 /**
  * Program Name:	GUICalculator.java
  * Purpose:			generate a basic calculator GUI with some simple math calculations
- * @author			Robert Ren, 0975676
+ * @author			Robert Ren
  * Date:			Apr. 16, 2021
  */
 import javax.swing.*;
