@@ -258,8 +258,8 @@ public class GUICalculator extends JFrame
 			}
 			else if(ev.getSource() == aboutItem)	//about this application
 			{
-				String message = "(c) Copyright Robert Ren. App created as project 2 for INFO3134\n"
-						+ "Object Oriented Programming with Java, teached by Bill Pulling.";
+				String message = "(c) Copyright Robert Ren. App created as personal project\n"
+						+ "purely for personal use.";
 				
 				JOptionPane.showMessageDialog(contentPane, message, "About this Application", JOptionPane.PLAIN_MESSAGE);
 			}
